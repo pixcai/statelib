@@ -1,0 +1,24 @@
+{
+  "name": "statelib",
+  "version": "1.0.0",
+  "description": "A stupid, simple, clean, ridiculously small state management library",
+  "main": "statelib.js",
+  "scripts": {
+    "test": "node --harmony --use_strict test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixcai/statelib.git"
+  },
+  "keywords": [
+    "state",
+    "management",
+    "library"
+  ],
+  "author": "pixcai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixcai/statelib/issues"
+  },
+  "homepage": "https://github.com/pixcai/statelib#readme"
+}
